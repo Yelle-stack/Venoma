@@ -3,8 +3,7 @@
 Venoma est une application web moderne dédiée à la présentation et à la vente de vêtements de sport.
 Le projet met l’accent sur un design responsive, des performances optimisées et une architecture front-end moderne.
 
-![image alt](https://github.com/Yelle-stack/Venoma/blob/1a1df4b32cd0f88041ab2d36f5cb21c88ead2c4c/venomaphoto.png)
-## 🚀 Technologies utilisées
+![image alt](https://github.com/Yelle-stack/Venoma/blob/d33ec45760eb01da0a91d545737fcbbeb779daff/venomahome.png)## 🚀 Technologies utilisées
 
 Next.js (App Router)
 
